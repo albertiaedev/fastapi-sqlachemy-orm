@@ -1,8 +1,14 @@
 # fastapi-sqlachemy-orm
 
+## Install FastAPI
+
+To install FastAPI you have to input the following command in your terminal:
+
+```pip install fastapi uvicorn```
+
 ## Install SQLAlchemy
 
-To install you have to input the following command in your terminal:
+To install SQLAlchemy you have to input the following command in your terminal:
 
 ```pip install sqlalchemy```
 
